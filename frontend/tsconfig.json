@@ -1,0 +1,7 @@
+{
+  "extends": "./.nuxt/tsconfig.json",
+  "vueCompilerOptions": {
+    "target": 3,
+    "globalTypesPath": "./.volar/global.d.ts"
+  }
+}
